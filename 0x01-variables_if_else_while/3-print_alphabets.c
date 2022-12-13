@@ -9,7 +9,7 @@ int main(void)
 	char letter;
 
 	for (letter = 'a'; letter <= 'z'; letter++)
-		printf('\n', letter);
+		putchar('\n', letter);
 	for (letter = 'A'; letter <= 'Z'; letter++)
 		putchar('\n', letter);
 	return (0);
