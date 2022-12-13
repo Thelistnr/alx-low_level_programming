@@ -10,6 +10,6 @@ int main(void)
 	char letters;
 
 	for (leter = 'a'; letter <= 'z'; letter++)
-		putchar(letter'\n')
+		putchar(letter'\n');
 		return (0);
 }
